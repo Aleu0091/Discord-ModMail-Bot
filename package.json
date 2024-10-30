@@ -1,0 +1,16 @@
+{
+  "name": "Discord-ModMail-Bot",
+  "version": "1.0.0",
+  "description": "Simple ModeMail Bot",
+  "author": "aleu0091",
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "dependencies": {
+    "discord.js": "^14.16.2",
+    "moment": "^2.30.1",
+  }
+}

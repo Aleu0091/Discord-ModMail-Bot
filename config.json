@@ -1,0 +1,6 @@
+{
+    "token": "봇 토큰",
+    "modMailChannelId": "모드 메일 채널 아이디(채팅채널)",
+    "mentionTeamE": "새벽에 멘션받을 역할 아이디",
+    "mentionTeamO": "새벽 제외 멘션받을 역할 아이디"
+}
